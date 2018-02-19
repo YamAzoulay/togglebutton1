@@ -23,6 +23,9 @@ public class MainActivity extends AppCompatActivity {
 
 
 
+
+
+
     public void btnclick(View view) {
         if(swit.isChecked()&&(TB.isChecked()))
             lin1.setBackgroundResource(R.drawable.hbs);
